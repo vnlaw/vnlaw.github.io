@@ -8,6 +8,27 @@
   </head>
   <body>
     <div id="tree-container"></div>
+    <footer class='footer-distributed'>
+        <div class='footer-right'>
+          <a href='google.com'><i class='fa fa-facebook'></i></a>
+          <a href='google.com'><i class='fa fa-twitter'></i></a>
+          <a href='google.com'><i class='fa fa-linkedin'></i></a>
+        </div>
+        <div class='footer-left'>
+          <p class='footer-links'>
+            <a href="https://vnlaw.datalab.vn">Trang chủ</a>
+            <p class='delimiter'>·</p>
+            <a href="https://vnlaw.datalab.vn/searchlaw">
+              Tra cứu luật
+            </a>
+            <p class='delimiter'>·</p>
+            <a href="https://vnlaw.datalab.vn/attorney">
+              Tìm kiếm luật sư
+            </a>
+          </p>
+          <p>VNLaw - LKBC 2017</p>
+        </div>
+    </footer>
   </body>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://d3js.org/d3.v3.min.js"></script>
@@ -29,7 +50,7 @@
   
       // size of the diagram
       var viewerWidth = $(document).width();
-      var viewerHeight = $(document).height();
+      var viewerHeight = $(document).height() - 169;
   
       var tree = d3.layout.tree()
           .size([viewerHeight, viewerWidth]);
