@@ -52,7 +52,7 @@ a.navbar-brand:hover {
 }
 
 #tree-container {
-	height: calc(100vh - 232px);
+	height: calc(100vh - 68px);
 	width: 100%;
 }
 
