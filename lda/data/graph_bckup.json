@@ -1,0 +1,3302 @@
+
+    {
+        "children": [
+            {
+                "children": [
+                    {
+                        "children": [], 
+                        "name": "t\u00e0i nguy\u00ean m\u00f4i tr\u01b0\u1eddng"
+                    }, 
+                    {
+                        "children": [], 
+                        "name": "b\u1ea3o v\u1ec7 m\u00f4i tr\u01b0\u1eddng"
+                    }
+                ], 
+                "name": "s\u1edf t\u00e0i nguy\u00ean m\u00f4i tr\u01b0\u1eddng"
+            }, 
+            {
+                "children": [
+                    {
+                        "children": [], 
+                        "name": "k\u1ebf ho\u1ea1ch \u0111\u1ea7u t\u01b0"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "d\u1ef1 \u00e1n \u0111\u1ea7u t\u01b0"
+                            }
+                        ], 
+                        "name": "th\u1ef1c hi\u1ec7n d\u1ef1 \u00e1n"
+                    }, 
+                    {
+                        "children": [], 
+                        "name": "ch\u1ee7 \u0111\u1ea7u t\u01b0"
+                    }
+                ], 
+                "name": "s\u1edf k\u1ebf ho\u1ea1ch \u0111\u1ea7u t\u01b0"
+            }, 
+            {
+                "children": [
+                    {
+                        "children": [], 
+                        "name": "ubnd huy\u1ec7n"
+                    }
+                ], 
+                "name": "ubnd t\u1ec9nh"
+            }, 
+            {
+                "children": [
+                    {
+                        "children": [], 
+                        "name": "ng\u00e2n h\u00e0ng nh\u00e0 n\u01b0\u1edbc"
+                    }
+                ], 
+                "name": "kho b\u1ea1c nh\u00e0 n\u01b0\u1edbc"
+            }, 
+            {
+                "children": [
+                    {
+                        "children": [], 
+                        "name": "quy \u0111\u1ecbnh th\u00f4ng t\u01b0"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "quy \u0111\u1ecbnh ngh\u1ecb \u0111\u1ecbnh"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "quy \u0111\u1ecbnh hi\u1ec7n h\u00e0nh"
+                            }
+                        ], 
+                        "name": "th\u00f4ng t\u01b0 li\u00ean b\u1ed9"
+                    }
+                ], 
+                "name": "th\u00f4ng t\u01b0 li\u00ean t\u1ecbch"
+            }, 
+            {
+                "children": [
+                    {
+                        "children": [], 
+                        "name": "\u1ee7y ban nh\u00e2n d\u00e2n x\u00e3"
+                    }
+                ], 
+                "name": "h\u1ed9i \u0111\u1ed3ng nh\u00e2n d\u00e2n t\u1ec9nh"
+            }, 
+            {
+                "children": [], 
+                "name": "h\u1ed9 gia \u0111\u00ecnh"
+            }, 
+            {
+                "children": [], 
+                "name": "ng\u00e2n s\u00e1ch nh\u00e0 n\u01b0\u1edbc"
+            }, 
+            {
+                "children": [
+                    {
+                        "children": [], 
+                        "name": "- chi"
+                    }, 
+                    {
+                        "children": [], 
+                        "name": "n\u1ed9i dung chi"
+                    }
+                ], 
+                "name": "kho\u1ea3n chi"
+            }, 
+            {
+                "children": [], 
+                "name": "\u0111\u1ecba b\u00e0n t\u1ec9nh"
+            }, 
+            {
+                "children": [
+                    {
+                        "children": [], 
+                        "name": "th\u1ef1c hi\u1ec7n nhi\u1ec7m v\u1ee5"
+                    }
+                ], 
+                "name": "qu\u00e1 tr\u00ecnh th\u1ef1c hi\u1ec7n"
+            }, 
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "t\u0103ng c\u01b0\u1eddng c\u00f4ng t\u00e1c"
+                                    }
+                                ], 
+                                "name": "ph\u1ee5c v\u1ee5 ho\u1ea1t \u0111\u1ed9ng"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "c\u00f4ng t\u00e1c qu\u1ea3n l\u00fd"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "ph\u1ee5c v\u1ee5 c\u00f4ng t\u00e1c"
+                            }
+                        ], 
+                        "name": "n\u00e2ng ch\u1ea5t l\u01b0\u1ee3ng"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "h\u01b0\u1edfng tr\u1ee3 c\u1ea5p"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "kho\u1ea3n tr\u1ee3 c\u1ea5p"
+                                    }
+                                ], 
+                                "name": "h\u01b0\u1edfng ph\u1ee5 c\u1ea5p"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "h\u01b0\u1edfng ch\u1ebf \u0111\u1ed9"
+                            }
+                        ], 
+                        "name": "sinh ho\u1ea1t ph\u00ed"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "u\u1ef7 ban th\u1ec3 d\u1ee5c th\u1ec3 thao"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "th\u1ec3 d\u1ee5c th\u1ec3 thao"
+                            }
+                        ], 
+                        "name": "th\u1ec3 thao du l\u1ecbch"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "n\u1ed9p thu\u1ebf"
+                            }
+                        ], 
+                        "name": "c\u01a1 quan thu\u1ebf"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "s\u1ea3n xu\u1ea5t kinh doanh"
+                            }
+                        ], 
+                        "name": "c\u01a1 s\u1edf s\u1ea3n xu\u1ea5t"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "\u0111\u1ed1i v\u1edbi doanh nghi\u1ec7p"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "doanh nghi\u1ec7p nh\u00e0 n\u01b0\u1edbc"
+                            }
+                        ], 
+                        "name": "t\u1ed5ng c\u00f4ng ty"
+                    }, 
+                    {
+                        "children": [], 
+                        "name": "t\u00e0i s\u1ea3n c\u1ed1 \u0111\u1ecbnh"
+                    }, 
+                    {
+                        "children": [], 
+                        "name": "c\u0103n c\u1ee9 lu\u1eadt"
+                    }, 
+                    {
+                        "children": [], 
+                        "name": "h\u00e0ng qu\u00fd"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "gi\u1ea3i quy\u1ebft khi\u1ebfu n\u1ea1i"
+                            }
+                        ], 
+                        "name": "c\u00e1 nh\u00e2n li\u00ean quan tr\u00e1ch nhi\u1ec7m thi h\u00e0nh quy\u1ebft \u0111\u1ecbnh"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "ng\u00e2n s\u00e1ch \u0111\u1ecba ph\u01b0\u01a1ng"
+                                    }
+                                ], 
+                                "name": "l\u1eadp d\u1ef1 to\u00e1n"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "b\u00e1o c\u00e1o quy\u1ebft to\u00e1n"
+                            }
+                        ], 
+                        "name": "quy\u1ebft to\u00e1n kinh ph\u00ed"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "s\u1edf t\u00e0i ch\u00ednh"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "ng\u00e0nh li\u00ean quan"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "\u0111\u01a1n v\u1ecb li\u00ean quan"
+                                    }
+                                ], 
+                                "name": "c\u01a1 quan li\u00ean quan"
+                            }
+                        ], 
+                        "name": "ph\u1ed1i h\u1ee3p s\u1edf"
+                    }, 
+                    {
+                        "children": [], 
+                        "name": "quy \u0111\u1ecbnh c\u1ee5 th\u1ec3"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "s\u1edf y t\u1ebf"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "kh\u00e1m b\u1ec7nh"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "b\u1ec7nh ngh\u1ec1 nghi\u1ec7p"
+                            }
+                        ], 
+                        "name": "kh\u00e1m ch\u1eefa b\u1ec7nh"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "\u0111\u1ecba b\u00e0n x\u00e3"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "th\u00e0nh ph\u1ed1 t\u1ec9nh"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "ng\u00e0nh t\u1ec9nh"
+                            }
+                        ], 
+                        "name": "\u0111\u1ecba b\u00e0n huy\u1ec7n"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "thi h\u00e0nh quy\u1ebft \u0111\u1ecbnh"
+                            }
+                        ], 
+                        "name": "ban h\u00e0nh quy \u0111\u1ecbnh"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "t\u1edd khai"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "th\u1ee7 t\u1ee5c h\u1ea3i quan"
+                                    }
+                                ], 
+                                "name": "xu\u1ea5t nh\u1eadp kh\u1ea9u"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "c\u01a1 quan h\u1ea3i quan"
+                            }
+                        ], 
+                        "name": "t\u1ed5ng c\u1ee5c h\u1ea3i quan"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "k\u00fd h\u1ee3p \u0111\u1ed3ng"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "t\u1ed5 ch\u1ee9c kinh t\u1ebf"
+                                    }
+                                ], 
+                                "name": "h\u1ee3p \u0111\u1ed3ng kinh t\u1ebf"
+                            }
+                        ], 
+                        "name": "t\u1ed5 ch\u1ee9c t\u00edn d\u1ee5ng"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "\u0111i\u1ec1u ki\u1ec7n thu\u1eadn l\u1ee3i"
+                            }
+                        ], 
+                        "name": "\u0111\u00e1p \u1ee9ng y\u00eau c\u1ea7u"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "vay v\u1ed1n"
+                            }
+                        ], 
+                        "name": "v\u1ed1n vay"
+                    }, 
+                    {
+                        "children": [], 
+                        "name": "x\u00e9t t\u1edd tr\u00ecnh"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "truy c\u1ee9u tr\u00e1ch nhi\u1ec7m h\u00ecnh s\u1ef1"
+                            }
+                        ], 
+                        "name": "b\u1ed3i th\u01b0\u1eddng thi\u1ec7t h\u1ea1i"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "giao th\u00f4ng v\u1eadn t\u1ea3i"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "tuy\u1ebfn \u0111\u01b0\u1eddng"
+                            }
+                        ], 
+                        "name": "s\u1edf giao th\u00f4ng v\u1eadn t\u1ea3i"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "t\u1ea1m giam"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "v\u1ee5 \u00e1n"
+                            }
+                        ], 
+                        "name": "c\u01a1 quan \u0111i\u1ec1u tra"
+                    }, 
+                    {
+                        "children": [], 
+                        "name": "d\u1ea1y ngh\u1ec1"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "l\u1eadp bi\u00ean b\u1ea3n"
+                                    }
+                                ], 
+                                "name": "l\u1eadp h\u1ed3 s\u01a1"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "h\u1ed3 s\u01a1 h\u1ee3p l\u1ec7"
+                                    }
+                                ], 
+                                "name": "h\u1ed3 s\u01a1 \u0111\u1ec1 ngh\u1ecb"
+                            }
+                        ], 
+                        "name": "ti\u1ebfp nh\u1eadn h\u1ed3 s\u01a1"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "cung c\u1ea5p th\u00f4ng tin"
+                            }
+                        ], 
+                        "name": "v\u0103n ho\u00e1 - th\u00f4ng tin"
+                    }, 
+                    {
+                        "children": [], 
+                        "name": "\u0111\u1ed1i v\u1edbi c\u00e1n b\u1ed9"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "g\u1ecdi"
+                            }
+                        ], 
+                        "name": "g\u1ecdi t\u1eaft"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "s\u1edf n\u1ed9i v\u1ee5"
+                                    }
+                                ], 
+                                "name": "ph\u00f2ng chuy\u00ean m\u00f4n"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "s\u1edf t\u01b0 ph\u00e1p"
+                                    }
+                                ], 
+                                "name": "gi\u00e1m \u0111\u1ed1c s\u1edf"
+                            }
+                        ], 
+                        "name": "quy\u1ec1n h\u1ea1n c\u01a1 c\u1ea5u t\u1ed5 ch\u1ee9c"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "\u0111\u01a1n v\u1ecb tr\u1ef1c thu\u1ed9c"
+                                    }
+                                ], 
+                                "name": "\u0111\u01a1n v\u1ecb s\u1ef1 nghi\u1ec7p"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "th\u1ee7 tr\u01b0\u1edfng \u0111\u01a1n v\u1ecb"
+                            }
+                        ], 
+                        "name": "\u0111\u01a1n v\u1ecb s\u1ef1 nghi\u1ec7p c\u00f4ng l\u1eadp"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "m\u1eabu"
+                            }
+                        ], 
+                        "name": "ph\u1ee5 l\u1ee5c"
+                    }, 
+                    {
+                        "children": [], 
+                        "name": "mi\u1ec1n n\u00fai"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "th\u1ef1c hi\u1ec7n c\u00f4ng t\u00e1c"
+                            }
+                        ], 
+                        "name": "tri\u1ec3n khai th\u1ef1c hi\u1ec7n"
+                    }, 
+                    {
+                        "children": [], 
+                        "name": "th\u1ee7 t\u1ee5c h\u00e0nh ch\u00ednh"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "x\u00e2y d\u1ef1ng c\u00f4ng tr\u00ecnh"
+                                    }
+                                ], 
+                                "name": "c\u00f4ng tr\u00ecnh x\u00e2y d\u1ef1ng"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "gi\u1ea5y ph\u00e9p x\u00e2y d\u1ef1ng"
+                            }
+                        ], 
+                        "name": "\u0111\u1ed1i v\u1edbi c\u00f4ng tr\u00ecnh"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "n\u00f4ng nghi\u1ec7p ph\u00e1t tri\u1ec3n n\u00f4ng th\u00f4n"
+                                    }
+                                ], 
+                                "name": "khu c\u00f4ng nghi\u1ec7p"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "c\u1ee5m c\u00f4ng nghi\u1ec7p"
+                                    }
+                                ], 
+                                "name": "s\u1edf n\u00f4ng nghi\u1ec7p ph\u00e1t tri\u1ec3n n\u00f4ng th\u00f4n"
+                            }
+                        ], 
+                        "name": "khu d\u00e2n c\u01b0"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "c\u01a1 quan c\u00f4ng an"
+                                    }
+                                ], 
+                                "name": "c\u00f4ng an nh\u00e2n d\u00e2n"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "d\u00e2n qu\u00e2n t\u1ef1 v\u1ec7"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "c\u00f4ng an t\u1ec9nh"
+                            }
+                        ], 
+                        "name": "l\u1ef1c l\u01b0\u1ee3ng v\u0169 trang"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "ch\u1ee7 t\u1ecbch ubnd t\u1ec9nh"
+                                    }
+                                ], 
+                                "name": "ch\u1ee7 t\u1ecbch ubnd huy\u1ec7n"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "h\u0111nd t\u1ec9nh"
+                            }
+                        ], 
+                        "name": "ubnd x\u00e3"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "thu\u00ea \u0111\u1ea5t"
+                                    }
+                                ], 
+                                "name": "s\u1eed d\u1ee5ng \u0111\u1ea5t"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "gi\u1ea3i ph\u00f3ng m\u1eb7t b\u1eb1ng"
+                                    }
+                                ], 
+                                "name": "thu\u00ea m\u1eb7t n\u01b0\u1edbc"
+                            }
+                        ], 
+                        "name": "ti\u1ec1n thu\u00ea \u0111\u1ea5t"
+                    }, 
+                    {
+                        "children": [], 
+                        "name": "ch\u1ee7 t\u1ecbch h\u1ed9i \u0111\u1ed3ng b\u1ed9 tr\u01b0\u1edfng"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "vi ph\u1ea1m ph\u00e1p lu\u1eadt"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "x\u1eed l\u00fd vi ph\u1ea1m"
+                            }
+                        ], 
+                        "name": "v\u0103n b\u1ea3n quy ph\u1ea1m ph\u00e1p lu\u1eadt"
+                    }, 
+                    {
+                        "children": [], 
+                        "name": "\u0111i c\u00f4ng t\u00e1c"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "s\u1edf lao \u0111\u1ed9ng - th\u01b0\u01a1ng binh x\u00e3 h\u1ed9i"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "- ttg"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "- cp"
+                                    }
+                                ], 
+                                "name": "- h\u0111bt"
+                            }
+                        ], 
+                        "name": "li\u00ean b\u1ed9 t\u00e0i ch\u00ednh -"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "\u0111\u1ed1i t\u01b0\u1ee3ng \u00e1p d\u1ee5ng"
+                            }
+                        ], 
+                        "name": "ph\u1ea1m vi \u0111i\u1ec1u ch\u1ec9nh"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "t\u1ef7 \u0111\u1ed3ng"
+                            }
+                        ], 
+                        "name": "tri\u1ec7u \u0111\u1ed3ng"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "kho\u1ea3n ti\u1ec1n"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "ti\u1ec1n ph\u1ea1t"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "ti\u1ec1n th\u01b0\u1edfng"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "thu ti\u1ec1n"
+                            }
+                        ], 
+                        "name": "ti\u1ec1n c\u00f4ng"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "h\u00e0nh lang an to\u00e0n \u0111\u01b0\u1eddng b\u1ed9"
+                                    }
+                                ], 
+                                "name": "giao th\u00f4ng \u0111\u01b0\u1eddng b\u1ed9"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "tr\u1ee3 c\u01b0\u1edbc"
+                                            }
+                                        ], 
+                                        "name": "tr\u1ee3 c\u01b0\u1edbc v\u1eadn chuy\u1ec3n"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "nh\u00e2n vi\u00ean h\u1ea3i quan"
+                                    }
+                                ], 
+                                "name": "h\u1ea3i quan b\u01b0u \u0111i\u1ec7n"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "th\u1ee7 t\u01b0\u1edbng ph\u1ee7"
+                                    }
+                                ], 
+                                "name": "ban h\u00e0nh quy ch\u1ebf qu\u1ea3n l\u00fd"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "qu\u00fd i"
+                                            }
+                                        ], 
+                                        "name": "\u0111\u1ecbnh k\u1ef3 h\u00e0ng qu\u00fd"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "\u0111\u1ecbnh k\u1ef3 h\u00e0ng"
+                                    }
+                                ], 
+                                "name": "t\u00e0i ch\u00edn"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "gi\u1ea5y x\u00e1c nh\u1eadn"
+                                            }
+                                        ], 
+                                        "name": "chi nh\u00e1nh v\u0103n ph\u00f2ng \u0111\u0103ng k\u00fd \u0111\u1ea5t \u0111ai"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "t\u00e0i s\u1ea3n g\u1eafn li\u1ec1n \u0111\u1ea5t"
+                                            }
+                                        ], 
+                                        "name": "gi\u1ea5y ch\u1ee9ng nh\u1eadn quy\u1ec1n s\u1eed d\u1ee5ng \u0111\u1ea5t"
+                                    }
+                                ], 
+                                "name": "v\u0103n ph\u00f2ng \u0111\u0103ng k\u00fd \u0111\u1ea5t \u0111ai"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "qu\u00e1 tr\u00ecnh t\u1ed5 ch\u1ee9c th\u1ef1c hi\u1ec7n"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "mua s\u1eafm t\u1eadp trung"
+                                            }
+                                        ], 
+                                        "name": "v\u0169 kh\u00ed qu\u00e2n d\u1ee5ng"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "trang b\u1ecb ph\u01b0\u01a1ng ti\u1ec7n"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "th\u1eddi h\u1ea1n s\u1eed d\u1ee5ng"
+                                    }
+                                ], 
+                                "name": "ph\u01b0\u01a1ng ti\u1ec7n k\u1ef9 thu\u1eadt qu\u00e2n s\u1ef1"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc"
+                                            }
+                                        ], 
+                                        "name": "tr\u01b0\u1eddng ph\u1ed5 th\u00f4ng"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "c\u01a1 s\u1edf gi\u00e1o d\u1ee5c"
+                                    }
+                                ], 
+                                "name": "s\u1edf gi\u00e1o d\u1ee5c \u0111\u00e0o t\u1ea1o"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "xe l\u1eeda"
+                                    }
+                                ], 
+                                "name": "ti\u1ec1n v\u00e9"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "thanh ni\u00ean xung phong"
+                                    }
+                                ], 
+                                "name": "th\u00e0nh ph\u1ed1 h\u1ed3 ch\u00ed minh"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "ni\u00ean \u0111\u1ed9 ng\u00e2n s\u00e1ch"
+                                            }
+                                        ], 
+                                        "name": "h\u01b0\u1edbng d\u1eabn ti\u1ec3u"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "ti\u1ec3u th\u1ee7 c\u00f4ng nghi\u1ec7p"
+                                            }
+                                        ], 
+                                        "name": "c\u01a1 quan lhcxn"
+                                    }
+                                ], 
+                                "name": "ni\u00ean \u0111\u1ed9"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "v\u1ed1n \u0111\u1ea7u t\u01b0"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "s\u1eed d\u1ee5ng v\u1ed1n"
+                                            }, 
+                                            {
+                                                "children": [], 
+                                                "name": "v\u1ed1n \u0111\u1ed1i \u1ee9ng"
+                                            }
+                                        ], 
+                                        "name": "v\u1ed1n l\u01b0u \u0111\u1ed9ng"
+                                    }
+                                ], 
+                                "name": "v\u1ed1n ng\u00e2n s\u00e1ch nh\u00e0 n\u01b0\u1edbc"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "th\u1ecb x\u00e3 long kh\u00e1nh"
+                                            }
+                                        ], 
+                                        "name": "thu\u00ea c\u00f4ng v\u1ee5"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "\u0111\u1ed3ng nai"
+                                    }
+                                ], 
+                                "name": "long an"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "h\u1ed3 ch\u1ee9a"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "tr\u00e0 vinh"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "tr\u1ea1m b\u01a1m"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "duy tu b\u1ea3o d\u01b0\u1ee1ng"
+                                    }
+                                ], 
+                                "name": "h\u1ed3 ch\u1ee9a n\u01b0\u1edbc"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "\u00e1p d\u1ee5ng ch\u1ebf \u0111\u1ed9"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "li\u00ean hi\u1ec7p h\u1ed9i khoa h\u1ecdc k\u1ef9 thu\u1eadt"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "ng\u00e2n h\u00e0ng th\u01b0\u01a1ng m\u1ea1i"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "kho b\u1ea1c nh\u00e0 n\u01b0\u1edbc t\u1ec9nh"
+                                    }
+                                ], 
+                                "name": "t\u00e0i kho\u1ea3n ti\u1ec1n g\u1eedi"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "th\u1ef1c hi\u1ec7n h\u1ee3p \u0111\u1ed3ng"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "ch\u1ea5t ph\u00f3ng x\u1ea1"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "an to\u00e0n b\u1ee9c x\u1ea1"
+                                            }
+                                        ], 
+                                        "name": "c\u00f4ng vi\u1ec7c n\u1eb7ng nh\u1ecdc"
+                                    }
+                                ], 
+                                "name": "thi\u1ebft b\u1ecb b\u1ee9c x\u1ea1"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "c\u1eeda h\u00e0ng x\u0103ng d\u1ea7u"
+                                            }, 
+                                            {
+                                                "children": [], 
+                                                "name": "khai th\u00e1c ch\u1ee3"
+                                            }
+                                        ], 
+                                        "name": "qu\u1ea3n l\u00fd ch\u1ee3"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "khai th\u00e1c qu\u1ea3n l\u00fd ch\u1ee3"
+                                    }
+                                ], 
+                                "name": "chuy\u1ec3n \u0111\u1ed5i ch\u1ee3"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "nh\u1eadp kho"
+                                            }, 
+                                            {
+                                                "children": [], 
+                                                "name": "ti\u1ec1n mua"
+                                            }
+                                        ], 
+                                        "name": "mua tr\u1ea3 ch\u1eadm"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "ch\u00eanh l\u1ec7ch gi\u00e1"
+                                    }
+                                ], 
+                                "name": "phi\u1ebfu c\u00f4ng tr\u00e1i"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "\u0111\u1ee9ng \u0111\u1ea7u"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "\u0111\u1ed1i v\u1edbi ng\u01b0\u1eddi l\u00e0m nhi\u1ec7m v\u1ee5 ti\u1ebfp c\u00f4ng d\u00e2n"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "khai th\u00e1c kho\u00e1ng s\u1ea3n"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "ph\u1ed1i h\u1ee3p s\u1edf t\u00e0i nguy\u00ean m\u00f4i tr\u01b0\u1eddng"
+                                    }
+                                ], 
+                                "name": "ph\u00f2ng t\u00e0i nguy\u00ean m\u00f4i tr\u01b0\u1eddng"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "kinh t\u1ebf-x\u00e3 h\u1ed9i"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "kinh doan"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "h\u1ed9i \u0111\u1ed3ng b\u1ed9 tr\u01b0\u1edfng ban h\u00e0nh"
+                                    }
+                                ], 
+                                "name": "tr\u00ecnh h\u1ed9i \u0111\u1ed3ng b\u1ed9 tr\u01b0\u1edfng"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "doanh nghi\u1ec7p v\u1ed1n \u0111\u1ea7u t\u01b0 n\u01b0\u1edbc ngo\u00e0i"
+                                    }
+                                ], 
+                                "name": "thu\u1ebf thu nh\u1eadp doanh nghi\u1ec7p"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "t\u1ed5 ch\u1ee9c ho\u1ea1t \u0111\u1ed9ng"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "\u0111\u0103ng k\u00fd kinh doanh"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "ho\u1ea1t \u0111\u1ed9ng kinh doanh"
+                                            }
+                                        ], 
+                                        "name": "c\u00e1 nh\u00e2n n\u01b0\u1edbc ngo\u00e0i"
+                                    }
+                                ], 
+                                "name": "t\u1ed5 ch\u1ee9c c\u00e1 nh\u00e2n"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "lu\u1eadt h\u00ecnh s\u1ef1"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "truy c\u1ee9u tr\u00e1ch nhi\u1ec7m h\u00ecnh s\u1ef1 t\u1ed9i"
+                                    }
+                                ], 
+                                "name": "h\u00e0nh vi ph\u1ea1m t\u1ed9i"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "ti\u00eau th\u1ee5 n\u01b0\u1edbc s\u1ea1ch"
+                                            }
+                                        ], 
+                                        "name": "l\u01b0\u1edbi \u0111i\u1ec7n trung \u00e1p n\u00f4ng th\u00f4n"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "gi\u00e1 \u0111i\u1ec7n"
+                                            }
+                                        ], 
+                                        "name": "c\u00f4ng ty \u0111i\u1ec7n l\u1ef1c"
+                                    }
+                                ], 
+                                "name": "gi\u00e1 ti\u00eau th\u1ee5 n\u01b0\u1edbc s\u1ea1ch"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "th\u1ef1c hi\u1ec7n ch\u01b0\u01a1ng tr\u00ecnh m\u1ee5c ti\u00eau qu\u1ed1c gia"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "ch\u1eefa b\u1ec7nh ph\u1ea1m vi thanh to\u00e1n qu\u1ef9"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "kho\u00e1ng s\u1ea3n \u0111\u1ecba b\u00e0n t\u1ec9nh"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "gi\u00e1 b\u00e1n l\u1ebb"
+                                            }
+                                        ], 
+                                        "name": "b\u1ea3ng gi\u00e1 \u0111\u1ea5t"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "h\u1ec7 s\u1ed1 \u0111i\u1ec1u ch\u1ec9nh gi\u00e1 \u0111\u1ea5t"
+                                            }
+                                        ], 
+                                        "name": "gi\u00e1 \u0111\u1ea5t"
+                                    }
+                                ], 
+                                "name": "\u0111i\u1ec1u ch\u1ec9nh gi\u00e1"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "s\u1ea3n xu\u1ea5t n\u00f4ng nghi\u1ec7p"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "c\u00f4ng an nh\u00e2n d\u00e2n v\u0169 trang"
+                                    }
+                                ], 
+                                "name": "qu\u00e2n \u0111\u1ed9i nh\u00e2n d\u00e2n"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "qu\u1ea3n l\u00fd ngh\u0129a trang"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "ngh\u1ecb quy\u1ebft quy \u0111\u1ecbnh"
+                                    }
+                                ], 
+                                "name": "b\u00e3i b\u1ecf ngh\u1ecb quy\u1ebft"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "chi h\u1ed9i ngh\u1ecb \u0111\u1ed1i v\u1edbi c\u01a1 quan"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "thu thu\u1ebf"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "c\u1ee5c thu\u1ebf t\u1ec9nh"
+                                    }
+                                ], 
+                                "name": "mi\u1ec5n thu\u1ebf"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "ngh\u1ec7 thu\u1eadt bi\u1ec3u di\u1ec5n"
+                                            }
+                                        ], 
+                                        "name": "c\u00f4ng tr\u00ecnh v\u0103n h\u1ecdc ngh\u1ec7 thu\u1eadt"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "\u0111o\u00e0n ngh\u1ec7 thu\u1eadt"
+                                            }
+                                        ], 
+                                        "name": "b\u1ed3i d\u01b0\u1ee1ng t\u1eadp luy\u1ec7n"
+                                    }
+                                ], 
+                                "name": "bi\u1ec3u di\u1ec5n ngh\u1ec7 thu\u1eadt"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "\u0111\u1ecbnh bi\u00ean"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "v\u0103n b\u1ea3n \u0111\u1ec1 ngh\u1ecb"
+                                            }
+                                        ], 
+                                        "name": "th\u00f4ng b\u00e1o v\u0103n b\u1ea3n"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "tham gia \u00fd ki\u1ebfn"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "n\u00eau l\u00fd do"
+                                    }
+                                ], 
+                                "name": "\u00fd ki\u1ebfn v\u0103n b\u1ea3n"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "b\u1ea3ng l\u01b0\u01a1ng"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "h\u1ec7 s\u1ed1 l\u01b0\u01a1ng"
+                                            }
+                                        ], 
+                                        "name": "b\u1eadc l\u01b0\u01a1ng"
+                                    }
+                                ], 
+                                "name": "x\u1ebfp l\u01b0\u01a1ng c\u0169 l\u01b0\u01a1ng"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "vui ch\u01a1i gi\u1ea3i tr\u00ed"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "b\u0103ng ghi h\u00ecnh"
+                                            }
+                                        ], 
+                                        "name": "s\u00e1ch gi\u00e1o khoa"
+                                    }
+                                ], 
+                                "name": "\u1ea5n ph\u1ea9m v\u0103n ho\u00e1"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "quy\u1ec1n t\u00e1c gi\u1ea3"
+                                            }, 
+                                            {
+                                                "children": [], 
+                                                "name": "t\u00e1c ph\u1ea9m ki\u1ebfn tr\u00fac"
+                                            }
+                                        ], 
+                                        "name": "t\u01b0 c\u00e1ch ph\u00e1p nh\u00e2n"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "ch\u1ee7 s\u1edf h\u1eefu"
+                                    }
+                                ], 
+                                "name": "s\u1edf h\u1eefu c\u00f4ng nghi\u1ec7p"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "x\u1eed l\u00fd n\u01b0\u1edbc th\u1ea3i"
+                                            }, 
+                                            {
+                                                "children": [], 
+                                                "name": "v\u1eadn chuy\u1ec3n r\u00e1c th\u1ea3i sinh ho\u1ea1t"
+                                            }
+                                        ], 
+                                        "name": "ch\u1ea5t th\u1ea3i r\u1eafn"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "x\u1eed l\u00fd ch\u1ea5t th\u1ea3i"
+                                    }
+                                ], 
+                                "name": "ch\u1ea5t th\u1ea3i r\u1eafn sinh ho\u1ea1t"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "ti\u1ec1n ph\u00ed t\u1ed5n s\u1eeda \u0111\u01b0\u1eddng"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "li\u00ean b\u1ed9 giao th\u00f4ng"
+                                    }
+                                ], 
+                                "name": "ph\u1ea1m vi b\u1ea3o v\u1ec7 k\u1ebft c\u1ea5u h\u1ea1 t\u1ea7ng giao th\u00f4ng"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "\u0111\u1ecba b\u00e0n t\u1ec9nh \u0111\u1eafk"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "th\u1ed1ng nh\u1ea5t \u00fd ki\u1ebfn"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "ho\u00e0n th\u00e0nh k\u1ebf ho\u1ea1ch"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "\u0111\u1ed1i v\u1edbi x\u00ed nghi\u1ec7p"
+                                            }, 
+                                            {
+                                                "children": [], 
+                                                "name": "qu\u1ef9 khen th\u01b0\u1edfng"
+                                            }
+                                        ], 
+                                        "name": "x\u00ed nghi\u1ec7p qu\u1ed1c doanh"
+                                    }
+                                ], 
+                                "name": "qu\u1ef9 ph\u00fac l\u1ee3i"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "t\u1ed1i \u0111a d\u1ecbch v\u1ee5 thu gom"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "b\u00e1o c\u00e1o \u0111\u1ecbnh k\u1ef3"
+                                            }
+                                        ], 
+                                        "name": "b\u00e1o c\u00e1o t\u00ecnh h\u00ecnh"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "t\u1ed5ng h\u1ee3p b\u00e1o c\u00e1o"
+                                            }
+                                        ], 
+                                        "name": "b\u00e1o c\u00e1o k\u1ebft qu\u1ea3"
+                                    }
+                                ], 
+                                "name": "\u0111i\u1ec1u tra th\u1ed1ng k\u00ea"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "x\u00e2y d\u1ef1ng k\u1ebf ho\u1ea1ch"
+                                    }
+                                ], 
+                                "name": "quy ho\u1ea1ch x\u00e2y d\u1ef1ng"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "x\u1eed l\u00fd t\u00e0i s\u1ea3n b\u1ea3o \u0111\u1ea3m"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "h\u1ee3p \u0111\u1ed3ng th\u1ebf ch\u1ea5p"
+                                    }
+                                ], 
+                                "name": "\u0111\u0103ng k\u00fd giao d\u1ecbch b\u1ea3o \u0111\u1ea3m"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "h\u1ea1 t\u1ea7ng k\u1ef9 thu\u1eadt"
+                                            }
+                                        ], 
+                                        "name": "c\u00f4ng tr\u00ecnh h\u1ea1 t\u1ea7ng k\u1ef9 thu\u1eadt s\u1eed d\u1ee5ng"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "c\u1ed9t \u0103ng ten"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "c\u00f4ng tr\u00ecnh h\u1ea1 t\u1ea7ng k\u1ef9 thu\u1eadt"
+                                    }
+                                ], 
+                                "name": "c\u00e1p vi\u1ec5n th\u00f4ng"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "n\u1eafm v\u1eefng"
+                                            }
+                                        ], 
+                                        "name": "bi\u1ec7n ph\u00e1p gi\u1ea3i quy\u1ebft"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "kh\u00f3 kh\u0103n tr\u1edf ng\u1ea1i"
+                                            }, 
+                                            {
+                                                "children": [], 
+                                                "name": "ch\u1ea5p h\u00e0nh nghi\u00eam ch\u1ec9nh"
+                                            }
+                                        ], 
+                                        "name": "tinh th\u1ea7n tr\u00e1ch nhi\u1ec7m"
+                                    }
+                                ], 
+                                "name": "c\u00f3 l\u00fd do ch\u00ednh \u0111\u00e1ng"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "h\u1ed9 kh\u1ea9u th\u01b0\u1eddng tr\u00fa"
+                                    }
+                                ], 
+                                "name": "h\u00f4n nh\u00e2n gia \u0111\u00ecnh"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "tr\u01b0\u1edfng ban"
+                                            }, 
+                                            {
+                                                "children": [], 
+                                                "name": "ban ch\u1ec9 \u0111\u1ea1o"
+                                            }
+                                        ], 
+                                        "name": "thanh tra vi\u00ean"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "thanh tra chuy\u00ean ng\u00e0nh"
+                                    }
+                                ], 
+                                "name": "ch\u1ea5p h\u00e0nh vi\u00ean"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "ch\u00ednh s\u00e1ch \u0111\u1ea3ng"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "c\u01a1 quan \u0111\u1ea3ng"
+                                            }
+                                        ], 
+                                        "name": "\u0111\u1ea3ng nh\u00e0 n\u01b0\u1edbc"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "l\u1ed1i s\u1ed1ng"
+                                    }
+                                ], 
+                                "name": "\u0111o\u00e0n th\u1ec3 trung \u01b0\u01a1ng"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "quy ho\u1ea1ch th\u0103m d\u00f2"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "bi\u00ean so\u1ea1n ch\u01b0\u01a1ng tr\u00ecnh"
+                                    }
+                                ], 
+                                "name": "ph\u00e9p s\u1eed d\u1ee5ng th\u1ebb abtc"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "\u0111\u01a1n v\u1ecb s\u1eed d\u1ee5ng"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "ng\u00e2n h\u00e0ng nh\u00e0 n\u01b0\u1edbc vi\u1ec7t nam"
+                                            }
+                                        ], 
+                                        "name": "vi\u1ec7t nam \u0111\u1ecbnh c\u01b0 n\u01b0\u1edbc ngo\u00e0i"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "vi\u1ec7t nam n\u01b0\u1edbc ngo\u00e0i"
+                                    }
+                                ], 
+                                "name": "c\u00f4ng d\u00e2n vi\u1ec7t nam"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "h\u1ed3 ch\u00ed minh"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "\u0111o\u00e0n thanh ni\u00ean c\u1ed9ng s\u1ea3n h\u1ed3 ch\u00ed minh"
+                                    }
+                                ], 
+                                "name": "tham gia kh\u00e1ng chi\u1ebfn"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "b\u1ec7nh vi\u1ec7n \u0111a khoa"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "\u0111i\u1ec1u tr\u1ecb n\u1ed9i tr\u00fa"
+                                            }, 
+                                            {
+                                                "children": [], 
+                                                "name": "\u0111\u1ecbnh su\u1ea5t"
+                                            }
+                                        ], 
+                                        "name": "ph\u1ee5 c\u1ea5p th\u01b0\u1eddng tr\u1ef1c"
+                                    }
+                                ], 
+                                "name": "n\u1eb1m \u0111i\u1ec1u tr\u1ecb"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "qu\u1ea3n l\u00fd \u0111\u1ea5t \u0111ai"
+                                    }
+                                ], 
+                                "name": "c\u01a1 s\u1edf t\u00f4n gi\u00e1o"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "qu\u1ef9 thu\u1ed1c"
+                                            }
+                                        ], 
+                                        "name": "v\u1eadt li\u1ec7u n\u1ed5 c\u00f4ng nghi\u1ec7p"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "thu\u1ed1c thi\u1ebft y\u1ebfu"
+                                            }
+                                        ], 
+                                        "name": "thu\u1ed1c ph\u00e1o"
+                                    }
+                                ], 
+                                "name": "mua thu\u1ed1c"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "quy \u0111\u1ecbnh m\u1ee9c h\u1ed7 tr\u1ee3"
+                                    }
+                                ], 
+                                "name": "vay \u0111\u1ed1i v\u1edbi ngh\u00e8o \u0111\u1ed1i t\u01b0\u1ee3ng ch\u00ednh s\u00e1ch"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "ph\u00f3 tr\u01b0\u1edfng ph\u00f2ng"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "c\u00e1n b\u1ed9 x\u00e3"
+                                            }
+                                        ], 
+                                        "name": "c\u00f4ng ch\u1ee9c x\u00e3"
+                                    }
+                                ], 
+                                "name": "ban t\u1ed5 ch\u1ee9c - c\u00e1n b\u1ed9 ch\u00ednh ph\u1ee7"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "m\u00e1y m\u00f3c thi\u1ebft b\u1ecb"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [
+                                                    {
+                                                        "children": [], 
+                                                        "name": "\u0111\u1ecbnh m\u1ee9c kinh t\u1ebf k\u1ef9 thu\u1eadt"
+                                                    }
+                                                ], 
+                                                "name": "kinh t\u1ebf - k\u1ef9 thu\u1eadt"
+                                            }
+                                        ], 
+                                        "name": "\u0111\u1ecbnh m\u1ee9c kinh t\u1ebf - k\u1ef9 thu\u1eadt"
+                                    }
+                                ], 
+                                "name": "thi\u1ebft b\u1ecb chuy\u00ean d\u00f9ng"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "ph\u00f9 h\u1ee3p quy ho\u1ea1ch"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "x\u00e2y d\u1ef1ng ph\u01b0\u01a1ng \u00e1n"
+                                    }
+                                ], 
+                                "name": "quy ho\u1ea1ch ph\u00e1t tri\u1ec3n"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "gia \u0111\u00ecnh li\u1ec7t s\u0129"
+                                    }
+                                ], 
+                                "name": "v\u1ee3 ch\u1ed3ng"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "v\u1eadn chuy\u1ec3n r\u00e1c th\u1ea3i sinh ho\u1ea1t s\u1eed d\u1ee5ng v\u1ed1n ng\u00e2n s\u00e1ch nh\u00e0 n\u01b0\u1edbc"
+                                    }
+                                ], 
+                                "name": "quy \u0111\u1ecbnh gi\u00e1 d\u1ecbch v\u1ee5"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "d\u1ef1 th\u1ea3o ngh\u1ecb quy\u1ebft"
+                                            }, 
+                                            {
+                                                "children": [], 
+                                                "name": "kh\u00f3a ix"
+                                            }
+                                        ], 
+                                        "name": "th\u1ef1c hi\u1ec7n ngh\u1ecb quy\u1ebft"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "c\u0103n c\u1ee9 ngh\u1ecb quy\u1ebft"
+                                    }
+                                ], 
+                                "name": "quy \u0111\u1ecbnh ngh\u1ecb quy\u1ebft"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "t\u1ed5ng c\u1ee5c du l\u1ecbch"
+                                    }
+                                ], 
+                                "name": "gi\u1ea3i thi \u0111\u1ea5u th\u1ec3 thao"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "ph\u00e1t tri\u1ec3n s\u1ea3n xu\u1ea5t"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "h\u1ed7 tr\u1ee3 ph\u00e1t tri\u1ec3n s\u1ea3n xu\u1ea5t"
+                                            }
+                                        ], 
+                                        "name": "n\u00f4ng nghi\u1ec7p \u1ee9ng d\u1ee5ng c\u00f4ng ngh\u1ec7 cao"
+                                    }
+                                ], 
+                                "name": "\u1ee9ng d\u1ee5ng c\u00f4ng ngh\u1ec7 cao"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "nh\u00e0 gi\u00e1o \u01b0u t\u00fa"
+                                            }
+                                        ], 
+                                        "name": "b\u1ed3i d\u01b0\u1ee1ng hi\u1ec7n v\u1eadt"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "ti\u1ec1n b\u1ed3i d\u01b0\u1ee1ng"
+                                            }
+                                        ], 
+                                        "name": "ch\u1ebf \u0111\u1ed9 b\u1ed3i d\u01b0\u1ee1ng"
+                                    }
+                                ], 
+                                "name": "th\u1ee3 l\u1eb7n"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "qu\u00e2n \u0111\u1ed9i nh\u00e2n d\u00e2n vi\u1ec7t nam"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "ty th\u1ee7y l\u1ee3i"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "thi h\u00e0nh ngh\u1ecb \u0111\u1ecbnh"
+                                    }
+                                ], 
+                                "name": "ban h\u00e0nh quy ch\u1ebf"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "b\u00ecnh qu\u00e2n \u0111\u1ea7u"
+                                            }
+                                        ], 
+                                        "name": "ph\u00f3 \u0111\u1ee9ng \u0111\u1ea7u"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "\u0111\u1ee9ng \u0111\u1ea7u c\u01a1 quan"
+                                    }
+                                ], 
+                                "name": "c\u1ee1 ch\u1eef"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "u\u1ef7 bannh\u00e2n d\u00e2n"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "quy \u0111\u1ecbnht\u1ea1i"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "ch\u1ec9nh ph\u1ee7"
+                                    }
+                                ], 
+                                "name": "th\u1ee7 t\u01b0\u1edbngch\u00ednh ph\u1ee7"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "th\u1ee7 t\u01b0\u1edbng ch\u00ednh ph\u1ee7 ph\u00ea duy\u1ec7t"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "h\u1ed9i \u0111\u1ed3ng ch\u00ednh ph\u1ee7"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "quy\u1ebft \u0111\u1ecbnh th\u00e0nh l\u1eadp"
+                                    }
+                                ], 
+                                "name": "ch\u00ednh ph\u1ee7 quy \u0111\u1ecbnh"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "c\u0103n c\u1ee9 x\u00e1c \u0111\u1ecbnh"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "x\u00e1c \u0111\u1ecbnh c\u01a1 s\u1edf"
+                                            }
+                                        ], 
+                                        "name": "chuy\u00ean gia t\u01b0 v\u1ea5n \u0111\u1ed9c l\u1eadp"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "nguy\u00ean nh\u00e2n kh\u00e1ch quan"
+                                    }
+                                ], 
+                                "name": "gi\u1ea3i ph\u00e1p h\u1eefu \u00edch"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "\u0111\u0103ng k\u00fd th\u1ebf ch\u1ea5p"
+                                    }
+                                ], 
+                                "name": "t\u00e0i s\u1ea3n b\u1ea3o \u0111\u1ea3m"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "t\u1ed5ng d\u1ef1 to\u00e1n"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "ph\u01b0\u01a1ng \u00e1n \u0111\u1ecba ch\u1ea5t"
+                                            }
+                                        ], 
+                                        "name": "th\u0103m d\u00f2 \u0111\u1ecba ch\u1ea5t"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "kh\u1ed1i l\u01b0\u1ee3ng c\u00f4ng vi\u1ec7c"
+                                    }
+                                ], 
+                                "name": "t\u1ed5ng c\u1ee5c \u0111\u1ecba ch\u1ea5t"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "qu\u1ea3ng b\u00e1 h\u00ecnh \u1ea3nh"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "t\u1ebft nguy\u00ean \u0111\u00e1n"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "ban t\u00f4n gi\u00e1o"
+                                    }
+                                ], 
+                                "name": "c\u01a1 ch\u1ebf \u0111\u1eb7c th\u00f9"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "\u1ee7y ban h\u00e0nh ch\u00ednh t\u1ec9nh"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "x\u00e9t tuy\u1ec3n"
+                                            }
+                                        ], 
+                                        "name": "\u1ee7y ban h\u00e0nh ch\u00ednh khu"
+                                    }
+                                ], 
+                                "name": "\u1ee7y ban h\u00e0nh ch\u00ednh"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "ki\u1ec3m l\u00e2m nh\u00e2n d\u00e2n"
+                                            }, 
+                                            {
+                                                "children": [], 
+                                                "name": "chi c\u1ee5c ki\u1ec3m l\u00e2m"
+                                            }
+                                        ], 
+                                        "name": "ng\u00e0nh l\u00e2m nghi\u1ec7p"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "ty l\u00e2m nghi\u1ec7p"
+                                    }
+                                ], 
+                                "name": "ph\u00fa y\u00ean"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "chi nh\u00e1nh ng\u00e2n h\u00e0ng ch\u00ednh s\u00e1ch"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "ii -"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "chi h\u1ed7 tr\u1ee3"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "chi b\u1ed3i d\u01b0\u1ee1ng"
+                                    }
+                                ], 
+                                "name": "chi c\u00f4ng t\u00e1c"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "phi m\u1eadu d\u1ecbch"
+                                            }
+                                        ], 
+                                        "name": "t\u1ed5 ch\u1ee9c pcpnn"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "kho\u1ea3n vi\u1ec7n tr\u1ee3"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "t\u1ed5 ch\u1ee9c phi ch\u00ednh ph\u1ee7"
+                                    }
+                                ], 
+                                "name": "li\u00ean x\u00f4"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "t\u1ed5ng c\u1ee5c b\u01b0u \u0111i\u1ec7n"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "quy\u1ec1n s\u1eed d\u1ee5ng"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "\u0111\u1ea5u gi\u00e1 t\u00e0i s\u1ea3n"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "quy\u1ec1n s\u1eed d\u1ee5ng \u0111\u1ea5t"
+                                    }
+                                ], 
+                                "name": "\u0111\u1ea5u gi\u00e1 quy\u1ec1n s\u1eed d\u1ee5ng \u0111\u1ea5t"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "nghi\u1ec7n ma t\u00fay"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [
+                                                    {
+                                                        "children": [], 
+                                                        "name": "nghi\u1ec7n ma tu\u00fd"
+                                                    }
+                                                ], 
+                                                "name": "cai nghi\u1ec7n ma t\u00fay"
+                                            }
+                                        ], 
+                                        "name": "ch\u1ea5t ma t\u00fay"
+                                    }
+                                ], 
+                                "name": "ch\u1ea5t ma tu\u00fd"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "t\u00e0i ch\u00ednh quy \u0111\u1ecbnh ch\u1ebf \u0111\u1ed9"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "ty t\u00e0i ch\u00ednh"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "ch\u00ednh s\u00e1ch h\u1ed7 tr\u1ee3"
+                                            }
+                                        ], 
+                                        "name": "h\u1ed9 ngh\u00e8o"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "h\u1ed7 tr\u1ee3 kinh ph\u00ed"
+                                    }
+                                ], 
+                                "name": "kinh ph\u00ed h\u1ed7 tr\u1ee3"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "\u0111\u01a1n v\u1ecb tr\u00fang th\u1ea7u"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "n\u1ee3 h\u1ea1n"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "l\u00e3i su\u1ea5t vay"
+                                    }
+                                ], 
+                                "name": "l\u00e3i vay"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "gi\u00e1 d\u1ecbch v\u1ee5 kh\u00e1m b\u1ec7nh"
+                                    }
+                                ], 
+                                "name": "c\u01a1 s\u1edf kh\u00e1m b\u1ec7nh"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "\u0111\u1ecba b\u00e0n t\u1ec9nh lai ch\u00e2u"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "h\u1ed9i thi"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "h\u1ed9i c\u1ef1u chi\u1ebfn binh vi\u1ec7t nam"
+                                            }, 
+                                            {
+                                                "children": [], 
+                                                "name": "h\u1ed9i qu\u1ea7n ch\u00fang"
+                                            }
+                                        ], 
+                                        "name": "h\u1ed9i n\u00f4ng d\u00e2n"
+                                    }
+                                ], 
+                                "name": "h\u1ed9i c\u1ef1u chi\u1ebfn binh"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "s\u1edf th\u00f4ng tin truy\u1ec1n th\u00f4ng"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "h\u1ec7 th\u1ed1ng th\u00f4ng tin"
+                                    }
+                                ], 
+                                "name": "v\u0103n ho\u00e1 th\u00f4ng tin"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "h\u1eadu qu\u1ea3 nghi\u00eam tr\u1ecdng"
+                                    }
+                                ], 
+                                "name": "kh\u1eafc ph\u1ee5c h\u1eadu qu\u1ea3"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [
+                                                    {
+                                                        "children": [], 
+                                                        "name": "gi\u00e1m \u0111\u1ecbnh y khoa"
+                                                    }
+                                                ], 
+                                                "name": "\u0111\u1ed1i v\u1edbi qu\u00e2n nh\u00e2n"
+                                            }
+                                        ], 
+                                        "name": "qu\u00e2n nh\u00e2n chuy\u00ean nghi\u1ec7p"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "h\u1ed9i \u0111\u1ed3ng gi\u00e1m \u0111\u1ecbnh y khoa"
+                                    }
+                                ], 
+                                "name": "gi\u00e1m \u0111\u1ecbnh th\u01b0\u01a1ng t\u1eadt"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "csgd-\u0111t ct"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "\u0111o \u0111\u1ea1c b\u1ea3n \u0111\u1ed3"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "chi c\u1ee5c qu\u1ea3n l\u00fd \u0111\u1ea5t \u0111ai"
+                                            }, 
+                                            {
+                                                "children": [], 
+                                                "name": "c\u01a1 s\u1edf d\u1eef li\u1ec7u"
+                                            }
+                                        ], 
+                                        "name": "b\u1ea3n \u0111\u1ed3 \u0111\u1ecba ch\u00ednh"
+                                    }
+                                ], 
+                                "name": "ho\u1ea1t \u0111\u1ed9ng \u0111o \u0111\u1ea1c b\u1ea3n \u0111\u1ed3"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "ngh\u1ec1 c\u00e1"
+                                            }
+                                        ], 
+                                        "name": "c\u1ea3nh s\u00e1t bi\u1ec3n"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "l\u1ef1c l\u01b0\u1ee3ng c\u1ea3nh s\u00e1t bi\u1ec3n"
+                                            }
+                                        ], 
+                                        "name": "c\u1ea3ng bi\u1ec3n"
+                                    }
+                                ], 
+                                "name": "ven bi\u1ec3n"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "c\u1ea3i c\u00e1ch h\u00e0nh ch\u00ednh"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "gi\u1ea3i quy\u1ebft tranh ch\u1ea5p"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "\u0111\u1ecba gi\u1edbi h\u00e0nh ch\u00ednh"
+                                    }
+                                ], 
+                                "name": "quy\u1ebft \u0111\u1ecbnh c\u01b0\u1ee1ng ch\u1ebf"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "vi\u00ean ch\u1ee9c nh\u00e0 n\u01b0\u1edbc"
+                                    }
+                                ], 
+                                "name": "\u0111\u1ed1i v\u1edbi c\u00f4ng nh\u00e2n"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "c\u01a1 s\u1edf v\u1eadt ch\u1ea5t"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "c\u00e1 nh\u00e2n s\u1ea3n xu\u1ea5t"
+                                    }
+                                ], 
+                                "name": "c\u01a1 s\u1edf kinh doanh"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "t\u00e0i s\u1ea3n nh\u00e0 n\u01b0\u1edbc"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "kh\u1ea5u hao c\u01a1 b\u1ea3n"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "\u0111\u1ed1i v\u1edbi t\u00e0i s\u1ea3n"
+                                    }
+                                ], 
+                                "name": "gi\u00e1 tr\u1ecb t\u00e0i s\u1ea3n"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "ti\u00eau chu\u1ea9n quy \u0111\u1ecbnh"
+                                    }
+                                ], 
+                                "name": "\u0111\u00e1p \u1ee9ng nhu c\u1ea7u"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "k\u00e8m the"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "k\u00e8m"
+                                    }
+                                ], 
+                                "name": "quy \u0111\u1ecbnh ph\u1ee5 l\u1ee5c"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "n\u00f4ng l\u00e2m th\u1ee7y s\u1ea3n"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "ng\u00e0nh thu\u1ef7 s\u1ea3n"
+                                    }
+                                ], 
+                                "name": "s\u1edf thu\u1ef7 s\u1ea3n"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "gia \u0111\u00ecnh tr\u1ebb em"
+                                            }
+                                        ], 
+                                        "name": "u\u1ef7 ban d\u00e2n s\u1ed1"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "k\u1ebf ho\u1ea1ch h\u00f3a gia \u0111\u00ecnh"
+                                            }
+                                        ], 
+                                        "name": "gia \u0111\u00ecnh tr\u1ebb em t\u1ec9nh"
+                                    }
+                                ], 
+                                "name": "u\u1ef7 ban b\u1ea3o v\u1ec7 ch\u0103m s\u00f3c tr\u1ebb em vi\u1ec7t nam"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "ch\u1ebf \u0111\u1ed9 chi h\u1ed9i ngh\u1ecb"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "ch\u1ebf \u0111\u1ed9 c\u00f4ng t\u00e1c ph\u00ed"
+                                            }, 
+                                            {
+                                                "children": [], 
+                                                "name": "chi c\u00f4ng t\u00e1c ph\u00ed"
+                                            }, 
+                                            {
+                                                "children": [], 
+                                                "name": "t\u1ed5 ch\u1ee9c h\u1ed9i ngh\u1ecb"
+                                            }
+                                        ], 
+                                        "name": "ph\u1ee5 c\u1ea5p l\u01b0u tr\u00fa"
+                                    }
+                                ], 
+                                "name": "quy \u0111\u1ecbnh ch\u1ebf \u0111\u1ed9 c\u00f4ng t\u00e1c ph\u00ed"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "di\u1ec7n t\u00edch t\u1ed1i thi\u1ec3u"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "chi\u1ec1u s\u00e2u"
+                                    }
+                                ], 
+                                "name": "chi\u1ec1u r\u1ed9ng"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "b\u1ed5 sung m\u1ed9t s\u1ed1"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "b\u1ed5 sung ph\u00f9 h\u1ee3p"
+                                            }
+                                        ], 
+                                        "name": "ch\u00ednh ph\u1ee7 s\u1eeda \u0111\u1ed5i"
+                                    }
+                                ], 
+                                "name": "b\u1ed5 sung m\u1ed9t s\u1ed1 ngh\u1ecb \u0111\u1ecbnh"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "n\u1eb1m danh m\u1ee5c"
+                                            }
+                                        ], 
+                                        "name": "c\u1ed9ng ho\u00e0 li\u00ean bang s\u00e9c sl\u00f4vakia ( c\u0169 ) tr\u1edf"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "danh m\u1ee5c"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "quy \u0111\u1ecbnh danh m\u1ee5c"
+                                    }
+                                ], 
+                                "name": "c\u00f4ng b\u1ed1 danh m\u1ee5c"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "ph\u00f2ng ch\u00e1y"
+                                            }
+                                        ], 
+                                        "name": "ch\u1eefa ch\u00e1y r\u1eebng"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "ki\u1ec3m d\u1ecbch th\u1ef1c v\u1eadt"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "b\u1ea3o v\u1ec7 r\u1eebng"
+                                    }
+                                ], 
+                                "name": "ph\u00f2ng ch\u00e1y ch\u1eefa ch\u00e1y"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "s\u1ed5 s\u00e1ch k\u1ebf to\u00e1n"
+                                            }
+                                        ], 
+                                        "name": "s\u1ed5 k\u1ebf to\u00e1n"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "t\u1ed5ng c\u1ee5c th\u1ed1ng k\u00ea"
+                                            }
+                                        ], 
+                                        "name": "ch\u1ebf \u0111\u1ed9 k\u1ebf to\u00e1n"
+                                    }
+                                ], 
+                                "name": "\u0111\u01a1n v\u1ecb k\u1ebf to\u00e1n"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "\u0111\u00f3ng b\u1ea3o hi\u1ec3m x\u00e3 h\u1ed9i"
+                                            }, 
+                                            {
+                                                "children": [], 
+                                                "name": "qu\u1ef9 b\u1ea3o hi\u1ec3m x\u00e3 h\u1ed9i"
+                                            }
+                                        ], 
+                                        "name": "th\u1ebb bhyt"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "c\u01a1 quan b\u1ea3o hi\u1ec3m x\u00e3 h\u1ed9i"
+                                    }
+                                ], 
+                                "name": "c\u01a1 s\u1edf kcb"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "c\u00f4ng ngh\u1ec7 m\u00f4i tr\u01b0\u1eddng"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "nghi\u00ean c\u1ee9u khoa h\u1ecdc"
+                                    }
+                                ], 
+                                "name": "s\u1edf khoa h\u1ecdc c\u00f4ng ngh\u1ec7"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "ph\u00ed d\u1ecbch v\u1ee5"
+                                            }
+                                        ], 
+                                        "name": "cung c\u1ea5p d\u1ecbch v\u1ee5"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "gi\u00e1 d\u1ecbch v\u1ee5"
+                                            }
+                                        ], 
+                                        "name": "s\u1eed d\u1ee5ng d\u1ecbch v\u1ee5"
+                                    }
+                                ], 
+                                "name": "cung \u1ee9ng d\u1ecbch v\u1ee5"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "ph\u1ee5c h\u1ed3i ch\u1ee9c n\u0103ng"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "\u00e1p d\u1ee5ng \u0111\u1ed1i v\u1edbi"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "\u0111\u1ec1 ngh\u1ecb khen th\u01b0\u1edfng"
+                                            }, 
+                                            {
+                                                "children": [], 
+                                                "name": "x\u00e9t khen th\u01b0\u1edfng"
+                                            }
+                                        ], 
+                                        "name": "h\u00ecnh th\u1ee9c khen th\u01b0\u1edfng"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "phong tr\u00e0o thi \u0111ua"
+                                    }
+                                ], 
+                                "name": "x\u00e9t t\u1eb7ng"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "m\u1ed9t s\u1ed1 n\u1ed9i dung"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "ch\u1ebf \u0111\u1ed9 \u0111\u1ed1i v\u1edbi"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "c\u00f4ng t\u00e1c qu\u1ea3n l\u00fd nh\u00e0 n\u01b0\u1edbc thi h\u00e0nh ph\u00e1p lu\u1eadt x\u1eed l\u00fd vi ph\u1ea1m h\u00e0nh ch\u00ednh"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "c\u1ed9ng \u0111\u1ed3ng d\u00e2n c\u01b0"
+                                            }
+                                        ], 
+                                        "name": "b\u1ea3o v\u1ec7 d\u00e2n ph\u1ed1"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "t\u1ed5 b\u1ea7u c\u1eed"
+                                            }
+                                        ], 
+                                        "name": "c\u1ee5m d\u00e2n c\u01b0"
+                                    }
+                                ], 
+                                "name": "t\u1ed5 d\u00e2n ph\u1ed1"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "quy \u0111\u1ecbnh ph\u00e2n chia thu ti\u1ec1n ch\u1eadm n\u1ed9p ng\u00e2n s\u00e1ch"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "s\u1eed d\u1ee5ng v\u1ed1n ng\u00e2n s\u00e1ch \u0111\u1ecba ph\u01b0\u01a1ng \u1ee7y th\u00e1c"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "ph\u00e1t tri\u1ec3n kinh t\u1ebf - x\u00e3 h\u1ed9i"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "ch\u01b0\u01a1ng tr\u00ecnh m\u1ee5c ti\u00eau"
+                                    }
+                                ], 
+                                "name": "ch\u01b0\u01a1ng tr\u00ecnh m\u1ee5c ti\u00eau qu\u1ed1c gia"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "c\u00e1n b\u1ed9 c\u00f4ng nh\u00e2n vi\u00ean ch\u1ee9c"
+                                    }
+                                ], 
+                                "name": "bu\u1ed9c th\u00f4i vi\u1ec7c"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "ch\u1ebf \u0111\u1ed9 hi\u1ec7n h\u00e0nh"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "c\u01a1 s\u1edf d\u1ea1y ngh\u1ec1"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "gi\u1ea3i quy\u1ebft vi\u1ec7c l\u00e0m"
+                                            }
+                                        ], 
+                                        "name": "\u0111\u00e0o t\u1ea1o ngh\u1ec1"
+                                    }
+                                ], 
+                                "name": "h\u1ecdc ngh\u1ec1"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "nhi\u1ec5m hiv"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "ph\u00f2ng ch\u1ed1ng s\u1ed1t r\u00e9t"
+                                    }
+                                ], 
+                                "name": "gi\u00e1m th\u1ecb tr\u1ea1i giam"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "ngh\u1ecb quy\u1ebft quy \u0111\u1ecbnh n\u1ed9i dung"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "an to\u00e0n th\u1ef1c ph\u1ea9m"
+                                            }
+                                        ], 
+                                        "name": "v\u1ec7 sinh an to\u00e0n th\u1ef1c ph\u1ea9m"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "ch\u1ea5t l\u01b0\u1ee3ng s\u1ea3n ph\u1ea9m"
+                                            }
+                                        ], 
+                                        "name": "kinh doanh th\u1ef1c ph\u1ea9m"
+                                    }
+                                ], 
+                                "name": "ch\u1ea5t l\u01b0\u1ee3ng h\u00e0ng ho\u00e1"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "khu v\u1ef1c bi\u00ean gi\u1edbi"
+                                            }
+                                        ], 
+                                        "name": "b\u1ed9 \u0111\u1ed9i bi\u00ean ph\u00f2ng"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "khu v\u1ef1c ph\u00f2ng th\u1ee7"
+                                            }
+                                        ], 
+                                        "name": "bi\u00ean gi\u1edbi qu\u1ed1c gia"
+                                    }
+                                ], 
+                                "name": "bi\u1ec3n \u0111\u1ea3o"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "phi\u00ean h\u1ecdp"
+                                            }
+                                        ], 
+                                        "name": "th\u00e0nh vi\u00ean h\u1ed9i \u0111\u1ed3ng"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "ch\u1ee7 t\u1ecbch h\u1ed9i \u0111\u1ed3ng"
+                                            }
+                                        ], 
+                                        "name": "h\u1ed3 s\u01a1 d\u1ef1 th\u1ea7u"
+                                    }
+                                ], 
+                                "name": "h\u1ed9i \u0111\u1ed3ng t\u01b0 v\u1ea5n"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "c\u01a1 s\u1edf gi\u1ebft m\u1ed5"
+                                            }
+                                        ], 
+                                        "name": "thu\u1ebf gi\u00e1 tr\u1ecb gia t\u0103ng"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "c\u01a1 s\u1edf ch\u0103n nu\u00f4i"
+                                            }
+                                        ], 
+                                        "name": "v\u1ec7 sinh th\u00fa y"
+                                    }
+                                ], 
+                                "name": "thu\u1ebf s\u00e1t sinh"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "kinh ph\u00ed s\u1ef1 nghi\u1ec7p ng\u00e2n s\u00e1ch nh\u00e0 n\u01b0\u1edbc"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "ch\u1eefa b\u1ec7nh nh\u00e0 n\u01b0\u1edbc"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "t\u1ec9nh \u0111\u1eafk"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "tr\u1ed3ng r\u1eebng"
+                                            }
+                                        ], 
+                                        "name": "r\u1eebng ph\u00f2ng h\u1ed9"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "r\u1eebng \u0111\u1eb7c d\u1ee5ng"
+                                            }
+                                        ], 
+                                        "name": "r\u1eebng tr\u1ed3ng"
+                                    }
+                                ], 
+                                "name": "ph\u00e1t tri\u1ec3n \u0111\u1ea5t tr\u1ed3ng l\u00faa"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "nu\u00f4i tr\u1ed3ng th\u1ee7y s\u1ea3n"
+                                    }
+                                ], 
+                                "name": "nu\u00f4i tr\u1ed3ng thu\u1ef7 s\u1ea3n"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "u\u1ef7 ban d\u00e2n t\u1ed9c mi\u1ec1n n\u00fai"
+                                            }
+                                        ], 
+                                        "name": "mi\u1ec1n b\u1eafc"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "\u0111\u1eb7c bi\u1ec7t kh\u00f3 kh\u0103n"
+                                    }
+                                ], 
+                                "name": "mi\u1ec1n nam"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "tr\u1edf \u0111i"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "tr\u1edf l\u00ea"
+                                            }
+                                        ], 
+                                        "name": "th\u1eddi gian c\u00f4ng t\u00e1c"
+                                    }
+                                ], 
+                                "name": "\u0111i h\u1ecdc"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "nh\u00e2n vi\u00ean ph\u1ee5c v\u1ee5"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "c\u01a1 s\u1edf h\u1ecfa t\u00e1ng"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "ph\u1ea3n bi\u1ec7n gi\u00e1m \u0111\u1ecbnh x\u00e3 h\u1ed9i"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "\u0111\u1ecba b\u00e0n t\u1ec9nh r\u1ecba-v\u0169ng t\u00e0u"
+                                            }
+                                        ], 
+                                        "name": "ng\u00e0nh \u0111\u01b0\u1eddng s\u1eaft"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "r\u1ecba-v\u0169ng t\u00e0u"
+                                    }
+                                ], 
+                                "name": "chuy\u1ebfn th\u0103m"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "\u0111\u00f3ng g\u00f3p qu\u1ef9"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "th\u1eddi k\u1ef3 \u1ed5n \u0111\u1ecbnh"
+                                            }
+                                        ], 
+                                        "name": "thu nh\u1eadp th\u1ef1c t\u1ebf"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "\u1ed5n \u0111\u1ecbnh \u0111\u1eddi s\u1ed1ng"
+                                    }
+                                ], 
+                                "name": "kho\u1ea3n thu nh\u1eadp"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "t\u1ee7 s\u00e1ch ph\u00e1p lu\u1eadt"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "x\u1eed l\u00fd \u0111\u01a1n khi\u1ebfu n\u1ea1i"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "c\u00e1 nh\u00e2n li\u00ean quan"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "xem x\u00e9t quy\u1ebft \u0111\u1ecbnh"
+                                    }
+                                ], 
+                                "name": "xem x\u00e9t gi\u1ea3i quy\u1ebft"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "lao \u0111\u1ed9ng-th\u01b0\u01a1ng binh x\u00e3 h\u1ed9i"
+                                            }, 
+                                            {
+                                                "children": [], 
+                                                "name": "lao \u0111\u1ed9n"
+                                            }
+                                        ], 
+                                        "name": "qui \u0111\u1ecbnh ph\u00e1p lu\u1eadt"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "qui \u0111\u1ecbnh th\u00f4ng t\u01b0"
+                                    }
+                                ], 
+                                "name": "qui \u0111\u1ecbnh hi\u1ec7n h\u00e0nh"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "ch\u1ed1ng bu\u00f4n l\u1eadu"
+                                            }
+                                        ], 
+                                        "name": "ch\u1ed1ng tham nh\u0169ng"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "ch\u1ed1ng t\u1ed9i ph\u1ea1m"
+                                            }
+                                        ], 
+                                        "name": "an ninh tr\u1eadt t\u1ef1"
+                                    }
+                                ], 
+                                "name": "ch\u1ed1ng ma tu\u00fd"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "m\u1eabu s\u1ed1"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "di t\u00edch l\u1ecbch s\u1eed"
+                                            }
+                                        ], 
+                                        "name": "d\u1ef1 tr\u1eef qu\u1ed1c gia"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "v\u01b0\u1eddn qu\u1ed1c gia"
+                                            }
+                                        ], 
+                                        "name": "x\u00e2y d\u1ef1n"
+                                    }
+                                ], 
+                                "name": "v\u01b0\u1eddn hoa"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "ho\u1ea1t \u0111\u1ed9ng t\u01b0 v\u1ea5n"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [
+                                                    {
+                                                        "children": [], 
+                                                        "name": "ho\u1ea1t \u0111\u1ed9ng kh\u00e1ng chi\u1ebfn"
+                                                    }
+                                                ], 
+                                                "name": "ho\u1ea1t \u0111\u1ed9ng c\u00e1ch m\u1ea1ng"
+                                            }
+                                        ], 
+                                        "name": "c\u00f4ng gi\u00fap \u0111\u1ee1 c\u00e1ch m\u1ea1ng"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "c\u00f4ng c\u00e1ch m\u1ea1ng"
+                                    }
+                                ], 
+                                "name": "khuy\u1ebfn c\u00f4ng"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "ph\u01b0\u01a1ng ti\u1ec7n v\u1eadn t\u1ea3i"
+                                            }
+                                        ], 
+                                        "name": "xe \u00f4 t\u00f4"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [
+                                                    {
+                                                        "children": [], 
+                                                        "name": "tr\u00f4ng xe"
+                                                    }
+                                                ], 
+                                                "name": "ch\u1ee7 ph\u01b0\u01a1ng ti\u1ec7n"
+                                            }
+                                        ], 
+                                        "name": "mua v\u00e9"
+                                    }
+                                ], 
+                                "name": "b\u1ebfn ph\u00e0"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "tai n\u1ea1n lao \u0111\u1ed9ng"
+                                            }
+                                        ], 
+                                        "name": "s\u1eed d\u1ee5ng lao \u0111\u1ed9ng"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "an to\u00e0n lao \u0111\u1ed9ng"
+                                            }
+                                        ], 
+                                        "name": "b\u1ea3o h\u1ed9 lao \u0111\u1ed9ng"
+                                    }
+                                ], 
+                                "name": "s\u1ee9c lao \u0111\u1ed9ng"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "lai ch\u00e2u"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "gia \u0111\u00ecn"
+                                            }
+                                        ], 
+                                        "name": "l\u1ea1ng s\u01a1n"
+                                    }
+                                ], 
+                                "name": "b\u1ebfn tre"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "trung \u01b0\u01a1ng \u0111\u1ecba ph\u01b0\u01a1ng"
+                                            }
+                                        ], 
+                                        "name": "to\u00e0n ng\u00e0nh"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "ng\u00e0nh \u0111\u1ecba ph\u01b0\u01a1ng"
+                                    }
+                                ], 
+                                "name": "ng\u00e0nh trung \u01b0\u01a1ng"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "quy \u0111\u1ecbnh h\u1ec7 s\u1ed1 \u0111i\u1ec1u ch\u1ec9nh gi\u00e1 \u0111\u1ea5t"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "s\u1edf th\u01b0\u01a1ng m\u1ea1i"
+                                    }, 
+                                    {
+                                        "children": [
+                                            {
+                                                "children": [], 
+                                                "name": "h\u00e0ng gi\u1ea3"
+                                            }, 
+                                            {
+                                                "children": [], 
+                                                "name": "gian l\u1eadn th\u01b0\u01a1ng m\u1ea1i"
+                                            }
+                                        ], 
+                                        "name": "gian l\u1eadn th\u01b0\u01a1ng m\u1ea1i h\u00e0ng gi\u1ea3"
+                                    }
+                                ], 
+                                "name": "giao h\u1ea1n ng\u1ea1ch"
+                            }
+                        ], 
+                        "name": "th\u1ef1c hi\u1ec7n ch\u01b0\u01a1ng tr\u00ecnh m\u1ee5c ti\u00eau qu\u1ed1c gia gi\u1ea3m ngh\u00e8o b\u1ec1n v\u1eefng giai \u0111o\u1ea1n"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "thu l\u1ec7 ph\u00ed"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "kho\u1ea3n thu"
+                                    }
+                                ], 
+                                "name": "n\u1ed9p ng\u00e2n s\u00e1ch"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "thu ph\u00ed"
+                            }
+                        ], 
+                        "name": "n\u1ed9p ng\u00e2n s\u00e1ch nh\u00e0 n\u01b0\u1edbc"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "h\u01b0\u1edfng l\u01b0\u01a1ng"
+                                    }, 
+                                    {
+                                        "children": [], 
+                                        "name": "l\u01b0\u01a1ng h\u01b0u"
+                                    }
+                                ], 
+                                "name": "l\u01b0\u01a1ng t\u1ed1i thi\u1ec3u"
+                            }, 
+                            {
+                                "children": [], 
+                                "name": "ngh\u1ec9 h\u01b0u"
+                            }
+                        ], 
+                        "name": "qu\u1ef9 ti\u1ec1n l\u01b0\u01a1ng"
+                    }, 
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "c\u01a1 quan nh\u00e0 n\u01b0\u1edbc"
+                                    }
+                                ], 
+                                "name": "c\u01a1 quan ch\u1ee7 qu\u1ea3n"
+                            }, 
+                            {
+                                "children": [
+                                    {
+                                        "children": [], 
+                                        "name": "c\u01a1 quan th\u1ea9m quy\u1ec1n"
+                                    }
+                                ], 
+                                "name": "c\u01a1 quan qu\u1ea3n l\u00fd"
+                            }
+                        ], 
+                        "name": "c\u01a1 quan nh\u00e0 n\u01b0\u1edbc th\u1ea9m quy\u1ec1n"
+                    }, 
+                    {
+                        "children": [], 
+                        "name": "x\u1ebfp l\u01b0\u01a1ng"
+                    }
+                ], 
+                "name": "ng\u00e2n s\u00e1ch nh\u00e0 n\u01b0\u1edbc \u0111\u1ecba b\u00e0n t\u1ec9nh"
+            }, 
+            {
+                "children": [], 
+                "name": "th\u1ee7 t\u01b0\u1edbng ch\u00ednh ph\u1ee7"
+            }, 
+            {
+                "children": [], 
+                "name": "c\u0103n c\u1ee9 ngh\u1ecb \u0111\u1ecbnh"
+            }, 
+            {
+                "children": [], 
+                "name": "gi\u1ea5y ch\u1ee9ng nh\u1eadn"
+            }, 
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "bao g\u1ed3m"
+                            }
+                        ], 
+                        "name": "\u0111\u1ed1i v\u1edbi tr\u01b0\u1eddng h\u1ee3p"
+                    }, 
+                    {
+                        "children": [], 
+                        "name": "- \u0111\u1ed1i v\u1edbi"
+                    }
+                ], 
+                "name": "\u0111\u1ed1i v\u1edbi"
+            }, 
+            {
+                "children": [], 
+                "name": "khoa h\u1ecdc c\u00f4ng ngh\u1ec7"
+            }, 
+            {
+                "children": [], 
+                "name": "th\u00e0nh ph\u1ed1 tr\u1ef1c thu\u1ed9c trung \u01b0\u01a1ng"
+            }, 
+            {
+                "children": [], 
+                "name": "vi\u1ec7t nam"
+            }, 
+            {
+                "children": [], 
+                "name": "th\u1ee7 tr\u01b0\u1edfng c\u01a1 quan"
+            }, 
+            {
+                "children": [], 
+                "name": "ch\u1eefa b\u1ec7nh"
+            }, 
+            {
+                "children": [], 
+                "name": "t\u1ed5 ch\u1ee9c th\u1ef1c hi\u1ec7n"
+            }, 
+            {
+                "children": [
+                    {
+                        "children": [], 
+                        "name": "\u1ee7y ban nh\u00e2n d\u00e2n t\u1ec9nh"
+                    }, 
+                    {
+                        "children": [], 
+                        "name": "\u1ee7y ban nh\u00e2n d\u00e2n huy\u1ec7n"
+                    }
+                ], 
+                "name": "u\u1ef7 ban nh\u00e2n d\u00e2n t\u1ec9nh"
+            }, 
+            {
+                "children": [], 
+                "name": "lao \u0111\u1ed9ng - th\u01b0\u01a1ng binh x\u00e3 h\u1ed9i"
+            }, 
+            {
+                "children": [
+                    {
+                        "children": [], 
+                        "name": "vi\u1ec7n ki\u1ec3m s\u00e1t"
+                    }
+                ], 
+                "name": "thi h\u00e0nh \u00e1n"
+            }, 
+            {
+                "children": [], 
+                "name": "gi\u00e1o d\u1ee5c \u0111\u00e0o t\u1ea1o"
+            }, 
+            {
+                "children": [], 
+                "name": "quy \u0111\u1ecbnh ph\u00e1p lu\u1eadt"
+            }, 
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "children": [], 
+                                "name": "ban h\u00e0nh k\u00e8m quy\u1ebft \u0111\u1ecbnh"
+                            }
+                        ], 
+                        "name": "\u0111i\u1ec1u kho\u1ea3n thi h\u00e0nh"
+                    }, 
+                    {
+                        "children": [], 
+                        "name": "c\u0103n c\u1ee9 th\u00f4ng t\u01b0"
+                    }
+                ], 
+                "name": "c\u0103n c\u1ee9 quy\u1ebft \u0111\u1ecbnh"
+            }
+        ], 
+        "name": "l\u1eadp k\u1ebf ho\u1ea1ch \u0111\u1ea7u t\u01b0 x\u00e3"
+    }
